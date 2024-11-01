@@ -1,0 +1,8 @@
+.components-panel__body #wpsca-search-field {
+    display: none;
+    margin-bottom: 10px;
+}
+
+.components-panel__body.is-opened #wpsca-search-field {
+    display: block;
+}
